@@ -1,11 +1,11 @@
-# Coloringbook
+# Image noise script
 
 A script made for a university project in the course Scripting languages.
 The main goal is adding noise to images so that they can be added into datasets.
 Technologies: Python
 
 ## Content
-- [Coloringbook](#coloringbook)
+- [Image noise script](#image-noise-script)
   - [Content](#content)
   - [Description](#description)
   - [Arguments](#arguments)
