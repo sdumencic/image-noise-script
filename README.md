@@ -28,7 +28,7 @@ At the beginning, all directories are created, if they do not already exist. Aft
 ```-t, --type``` – selection of the type of noise added to the image:
 - sp – salt & pepper
 - g – gaussian (mean value – 0.1, variance – 0.01)
-Default value: sp
+- Default value: sp
 
 ```-p, --part``` – part of the image to which noise should be applied. Each of the selected options saves images to the corresponding directory. For example, if the options up-left and down-right are selected, images for up-left will be saved in its own directory, and images for down-right in its own. The example command in terminal to call this argument is:
 ```-p "1" "2"```
